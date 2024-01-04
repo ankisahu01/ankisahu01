@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankisahu01
+- 👋 Hi, I’m @ankitsahu01
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning phython and c++ DSA.
 - 💞️ I’m looking to collaborate on projects.
